@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "root";
-$pass = "";
+$pass = "admin12345";
 $db = "galeria_app";
 
 $conn = new mysqli($host, $user, $pass, $db);
